@@ -1,4 +1,30 @@
-body {
- background-color: #b26f42;
+body 
+{
+background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
+background-color: #b26f42;
 }
 
+label 
+{
+font-family: Courier New;
+font-size: 14px;
+}
+
+#username 
+{
+font-family: Impact;
+font-size: 18px;
+text-shadow: 2px 2px #ff0000;
+}
+ 
+ #nav 
+{
+  grid:none;
+  display: grid;
+}
+
+#title 
+{
+ font-family: Chiller, Courier New;
+ font-size: 14px;
+ }
