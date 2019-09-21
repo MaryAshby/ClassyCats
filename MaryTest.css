@@ -6,14 +6,11 @@ label {
 font-family: Courier New;
 font-size: 14px;
 }
-#special1 {
-font-family: Courier New;
+#username {
+font-family: Impact;
 font-size: 18px;
 text-shadow: 2px 2px #ff0000;
 }
-.username
-{font-family: Impact;
- font-size: 18px;
  
  #nav {
   grid:none;
