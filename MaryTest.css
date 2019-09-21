@@ -3,8 +3,8 @@ body
 background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
  background-position: center;
  background-repeat: no-repeat;
- background-size: 600px 800px;
-background-color: #b26f42; 
+ background-size: 100%;
+background-color: #ebfaf2;
  width: 600px;
 }
 
@@ -39,19 +39,19 @@ a:hover, a:active
 
 a:visited 
 {
-  color: #464159;
+  color: #d7f4e5;
 }
 
 #special1
 {
- background-image: url (https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png);
+ content: url (https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png);
       background-repeat: no-repeat;
       background-position: left top;
  height: 100px;
  width: 100px;
       padding-top:10px;
       margin-bottom:10px;
- Display: inline-block;
+ display: inline-block;
 }
 
 .title
