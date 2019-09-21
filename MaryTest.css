@@ -12,12 +12,13 @@ label
 {
 font-family: Arial;
 font-size: 18px;
+ text-transform: capitalize;
 }
 
 .username 
 {
 font-family: Bookman;
-font-size: 24px;
+font-size: 32px;
 }
  
 a:link
@@ -40,22 +41,13 @@ a:hover, a:active
 a:visited 
 {
   color: #d7f4e5;
-}
-
-#special1
-{
- content: url (https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png);
-      background-repeat: no-repeat;
-      background-position: left top;
- height: 100px;
- width: 100px;
-      padding-top:10px;
-      margin-bottom:10px;
- display: inline-block;
+   display: inline-block;
 }
 
 .title
 {
+  background-image: url (https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png);
+      background-repeat: no-repeat;
  font-family: Bookman;
  font-size: 24px;
  width: 100%;
@@ -72,6 +64,7 @@ input[type=text], input[type=file], select
   border: 1px solid #c7f0db;
   border-radius: 4px;
   box-sizing: border-box;
+ background-color: white;
 }
 
 input[type=submit] 
