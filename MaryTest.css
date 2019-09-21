@@ -13,6 +13,7 @@ label
 {
 font-family: Arial;
 font-size: 18px;
+ 
 }
 
 .username 
@@ -21,11 +22,19 @@ font-family: Bookman;
 font-size: 24px;
 }
  
-a
+a:link, a:visited
 {
  font-family: Arial;
   font-size: 16px;
- width: 15%;
+  background-color:  #c7f0db;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #8bbabb;
+}
 }
 
 #special1
