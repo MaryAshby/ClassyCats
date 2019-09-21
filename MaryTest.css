@@ -28,7 +28,7 @@ a
  width: 15%;
 }
 
-input[type=text], select 
+input[type=text], input[type=file], select 
 {
   width: 100%;
   padding: 12px 20px;
