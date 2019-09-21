@@ -1,4 +1,4 @@
-body::before 
+body
 {
 background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
  background-position: center;
@@ -12,7 +12,6 @@ label
 {
 font-family: Arial;
 font-size: 18px;
- 
 }
 
 .username 
@@ -21,7 +20,7 @@ font-family: Bookman;
 font-size: 24px;
 }
  
-a:link, a:visited
+a:link
 {
  font-family: Arial;
   font-size: 16px;
@@ -35,12 +34,12 @@ a:link, a:visited
 
 a:hover, a:active 
 {
-  background-color: #8bbabb;
+  background-color: #6c7b95;
 }
 
 a:visited 
 {
-  color: 464159;
+  color: #464159;
 }
 
 #special1
@@ -58,7 +57,10 @@ a:visited
 {
  font-family: Bookman;
  font-size: 24px;
-}
+ width: 100%;
+ padding: 14px 25px;
+ boarder-bottom: 2px solid #c7f0db;
+ }
 
 input[type=text], input[type=file], select 
 {
