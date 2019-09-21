@@ -47,7 +47,7 @@ a
 
 input[type=text], input[type=file], select 
 {
-  width: 50%;
+  width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -58,7 +58,7 @@ input[type=text], input[type=file], select
 
 input[type=submit] 
 {
-  width: 50%;
+  width: 100%;
   background-color: #c7f0db;
   padding: 14px 20px;
   margin: 8px 0;
