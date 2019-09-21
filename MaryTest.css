@@ -14,24 +14,19 @@ font-family: Courier New;
 font-size: 14px;
 }
 
-#username 
+.username 
 {
 font-family: Impact;
 font-size: 18px;
 text-shadow: 2px 2px #ff0000;
 }
  
- #nav 
+#nav
 {
-  grid:none;
-  display: grid;
+ font-family: Arial;
+  font-size: 16px;
 }
 
-#title 
-{
- font-family: Chiller, Courier New;
- font-size: 14px;
- }
 
 h1
 {
