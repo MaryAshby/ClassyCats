@@ -1,9 +1,10 @@
-body 
+body::before 
 {
 background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
  background-position: center;
  background-repeat: no-repeat
  background-size: 600px 800px;
+ opacity: 0.5:
 background-color: #b26f42; 
  width: 600px;
 }
@@ -80,3 +81,8 @@ h1
  font-size: 14px;
 }
  
+.day
+{
+  color: #ff0000;
+  font-size: xx-large;
+}
