@@ -1,7 +1,12 @@
 body 
 {
 background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
+ background-position: center;
+  opacity: 0.5;
+  filter: alpha(opacity=50); 
+ background-size: 600px 800px;
 background-color: #b26f42;
+ width: 600px;
 }
 
 label 
@@ -32,8 +37,8 @@ text-shadow: 2px 2px #ff0000;
 h1
 {
  font-family: Impact;
- font-size: 18px;
- text-shadow: 2px 2px #ff0000;
+ font-size: 36px;
+ text-shadow: 2px 2px #c7f0db;
 }
 
 .day-box PREP
