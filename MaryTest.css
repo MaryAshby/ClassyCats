@@ -28,3 +28,32 @@ text-shadow: 2px 2px #ff0000;
  font-family: Chiller, Courier New;
  font-size: 14px;
  }
+
+h1
+{
+ font-family: Impact;
+ font-size: 18px;
+ text-shadow: 2px 2px #ff0000;
+}
+
+.day-box PREP
+{
+ background-color: #c7f0db;
+ font-family: Arial;
+ font-size: 14px;
+}
+
+.day-box CURRENT
+{
+ background-color: 8bbabb;
+ font-family: Arial;
+ font-size: 14px;
+}
+
+.day-box COMPLETED
+{
+ background-color: #6c7b95;
+ font-family: Arial;
+ font-size: 14px;
+}
+ 
