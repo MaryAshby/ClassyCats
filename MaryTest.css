@@ -16,9 +16,9 @@ font-size: 14px;
 
 .username 
 {
-font-family: Impact;
-font-size: 18px;
-text-shadow: 2px 2px #ff0000;
+font-family: Arial;
+font-size: 24px;
+text-shadow: 2px 2px #c7f0db;
 }
  
 #nav
@@ -27,6 +27,12 @@ text-shadow: 2px 2px #ff0000;
   font-size: 16px;
 }
 
+div {
+  width: 300px;
+  border: 15px #464159;
+  padding: 50px;
+  margin: 20px;
+}
 
 h1
 {
@@ -44,7 +50,7 @@ h1
 
 .day-box CURRENT
 {
- background-color: 8bbabb;
+ background-color: #8bbabb;
  font-family: Arial;
  font-size: 14px;
 }
