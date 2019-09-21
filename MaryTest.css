@@ -28,6 +28,23 @@ a
  width: 15%;
 }
 
+#special1
+{
+ background-image: url: https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png;
+      background-repeat: no-repeat;
+      background-position: left top;
+ height: 25px;
+ width: 20px;
+      padding-top:10px;
+      margin-bottom:10px;
+}
+
+.title
+{
+ font-family: Bookman;
+ font-size: 20px;
+}
+
 input[type=text], input[type=file], select 
 {
   width: 100%;
