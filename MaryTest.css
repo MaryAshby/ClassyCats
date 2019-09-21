@@ -25,15 +25,21 @@ a:link, a:visited
 {
  font-family: Arial;
   font-size: 16px;
-  background-color:  #c7f0db;
+  background-color:  #464159;
+ color: white;
   padding: 14px 25px;
   text-align: center;
   display: inline-block;
 }
 
-a:hover, a:active {
+a:hover, a:active 
+{
   background-color: #8bbabb;
 }
+
+a:visited 
+{
+  color: 464159;
 }
 
 #special1
@@ -41,8 +47,8 @@ a:hover, a:active {
  background-image: url: https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png;
       background-repeat: no-repeat;
       background-position: left top;
- height: 25px;
- width: 20px;
+ height: 100px;
+ width: 100px;
       padding-top:10px;
       margin-bottom:10px;
 }
