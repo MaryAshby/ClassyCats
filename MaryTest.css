@@ -2,9 +2,10 @@ body
 {
 background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
  background-position: center;
+ background-size: 100%;
  background-repeat: no-repeat;
 background-color: #ebfaf2;
- width: 600px;
+ width: 800px;
 }
 
 img.person_image
@@ -55,7 +56,6 @@ label
 {
 font-family: Arial;
 font-size: 18px;
- border: 1px solid #c7f0db;
  boarder-radius: 4px;
   box-sizing: border-box;
  background-color: #FEECB7;
@@ -76,7 +76,7 @@ input[type=text], input[type=file], select
 input[type=submit] 
 {
   width: 100%;
-  background-color: #c7f0db;
+  background-color: #FEECB7;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
