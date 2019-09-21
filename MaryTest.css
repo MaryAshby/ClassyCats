@@ -3,16 +3,13 @@ body
 background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
  background-position: center;
  background-repeat: no-repeat;
- background-size: 100%;
 background-color: #ebfaf2;
  width: 600px;
 }
 
-label 
+img.person_image
 {
-font-family: Arial;
-font-size: 18px;
- text-transform: capitalize;
+ border-radius: 30px;
 }
 
 .username 
@@ -27,6 +24,7 @@ a:link
   font-size: 16px;
   background-color:  #464159;
  color: white;
+  text-transform: capitalize;
   padding: 14px 25px;
   text-align: center;
   display: inline-block;
@@ -49,11 +47,19 @@ a:visited
   background-image: url (https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png);
       background-repeat: no-repeat;
  font-family: Bookman;
- font-size: 24px;
- width: 100%;
+ font-size: 32px;
  padding: 14px 25px;
- boarder-bottom: 2px solid #c7f0db;
  }
+
+label
+{
+font-family: Arial;
+font-size: 18px;
+ border: 1px solid #c7f0db;
+ boarder-radius: 4px;
+  box-sizing: border-box;
+ background-color: #FEECB7;
+}
 
 input[type=text], input[type=file], select 
 {
