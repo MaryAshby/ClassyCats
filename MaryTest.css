@@ -1,3 +1,5 @@
+              /*overall site changes here */
+
 body
 {
 background-color: #ebfaf2;
@@ -95,6 +97,8 @@ h1
  font-style: bold;
 }
 
+                     /*home page */
+
 .day-box
 {
  background-color: #8bbabb;
@@ -121,6 +125,25 @@ reading.day
  text-decoration: underline overline;
 }
 
+.grade
+{
+ font-family: Chiller;
+ font-size: 76px;
+}
+
+h3
+{
+ font-family: Bookman;
+ font-size: 36px;
+}
+ 
+a.assignment_link
+ {
+  boarder: none;
+  background: none;
+}
+
+                       /*Classmates */
 
 table, th, tr
 { 
@@ -140,21 +163,4 @@ table, th, tr
  background-color: white;
 }
 
-.grade
-{
- font-family: Chiller;
- font-size: 76px;
-}
-
-h3
-{
- font-family: Bookman;
- font-size: 36px;
-}
- 
-a.assignment_link
- {
-  boarder: none;
-  background: none;
-}
 
