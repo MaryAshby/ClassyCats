@@ -13,6 +13,12 @@ img.person_image
  height: 110px;
 }
 
+.header
+{
+  background-image: url ("https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/The_expression_of_the_emotions_in_man_and_animals_(1872)_(14782774684).png");
+  background-position: right;
+   background-repeat: no-repeat;
+}
 .username 
 {
 font-family: Bookman;
