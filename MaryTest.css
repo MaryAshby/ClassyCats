@@ -56,7 +56,7 @@ font-family: Arial;
 font-size: 18px;
  padding: 6px 20px;
  border: 1px solid #FEECB7;
- border-bottom-right-radius: 25px; 
+ border-top-right-radius: 25px; 
  background-color: #FEECB7;
 }
 
@@ -134,12 +134,27 @@ table, th, tr
  font-size: 18px;
  border: 2px solid black;
  border: collapse;
+ table-layout: fixed;
  text-align: center;
   text-transform: capitalize;
   border-radius: 4px;
- width: 75%;
+ width: 100%;
 }
+
  tr:nth-child(even)
 {
  background-color: white;
 }
+
+.grade
+{
+ font-family: Chiller;
+ font-size: 32px;
+}
+
+h3
+{
+ font-family: Bookman;
+ font-size: 36px;
+}
+ 
