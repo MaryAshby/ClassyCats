@@ -99,25 +99,11 @@ h1
 {
  background-color: #8bbabb;
  font-family: Arial;
- font-size: 18px;
+ font-size: 22px;
  padding: 14px 20px;
   margin: 8px 0;
-  border: none;
+  border: 2px solid black;
   border-radius: 4px;
-}
-
-.day-box CURRENT
-{
- background-color: #6ea9aa;
- font-family: Arial;
- font-size: 18px;
-}
-
-.day-box COMPLETED
-{
- background-color: #6c7b95;
- font-family: Arial;
- font-size: 18px;
 }
  
 .day
