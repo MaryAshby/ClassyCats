@@ -96,9 +96,9 @@ h1
 
 .day-box PREP
 {
- background-color: #c7f0db;
+ background-color: #8bbabb;
  font-family: Arial;
- font-size: 14px;
+ font-size: 18px;
  padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -107,22 +107,23 @@ h1
 
 .day-box CURRENT
 {
- background-color: #8bbabb;
+ background-color: #6ea9aa;
  font-family: Arial;
- font-size: 14px;
+ font-size: 18px;
 }
 
 .day-box COMPLETED
 {
  background-color: #6c7b95;
  font-family: Arial;
- font-size: 14px;
+ font-size: 18px;
 }
  
 .day
 {
-  color: #ff0000;
+  color: black;
   font-size: xx-large;
+ font-family: Arial;
 }
 
 
@@ -132,6 +133,7 @@ table, th, tr
  font-size: 18px;
  border: 2px solid black;
  text-align: center;
+  text-transform: capitalize;
   border-radius: 4px;
  width: 100%;
 }
