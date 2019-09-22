@@ -11,6 +11,8 @@ background-color: #ebfaf2;
 img.person_image
 {
  border-radius: 30px;
+ width: 80px;
+ height: 110px;
 }
 
 .username 
@@ -125,4 +127,18 @@ h1
 {
   color: #ff0000;
   font-size: xx-large;
+}
+
+//classmates//
+table, th, tr
+{ 
+ font-family: Bookman;
+ font-size: 18px;
+ border: 2px solid black;
+ text-align: center;
+}
+ table
+{
+  border-radius: 4px;
+ width: 100%;
 }
