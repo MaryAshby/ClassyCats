@@ -117,7 +117,7 @@ h1
   border-radius: 4px;
  }
 
-.assignment_label
+body > div.day-box.PREP > div.reading-box > div > div
 {
   visibility: hidden;
 }
