@@ -111,6 +111,11 @@ h1
   border-radius: 4px;
  }
 
+.assignment_label
+{
+  visibility: hidden;
+}
+
 reading.day
 {
  border: none;
