@@ -15,6 +15,7 @@ img.person_image
 {
 font-family: Bookman;
 font-size: 32px;
+ display: inline-block;
 }
  
 a:link
@@ -131,8 +132,13 @@ table, th, tr
  font-family: Bookman;
  font-size: 18px;
  border: 2px solid black;
+ border: collapse;
  text-align: center;
   text-transform: capitalize;
   border-radius: 4px;
- width: 100%;
+ width: 75%;
+}
+ tr:nth-child(even)
+{
+ background-color: white;
 }
