@@ -144,4 +144,8 @@ h3
  font-size: 36px;
 }
  
- 
+a.assignment_link
+ {
+  boarder: none;
+  background: none;
+}
