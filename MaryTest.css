@@ -100,10 +100,17 @@ h1
  background-color: #8bbabb;
  font-family: Arial;
  font-size: 22px;
+ text-align: center;
  padding: 14px 20px;
   margin: 8px 0;
   border: 2px solid black;
   border-radius: 4px;
+ }
+
+reading.day
+{
+ border: none;
+ background: none;
 }
  
 .day
@@ -111,6 +118,7 @@ h1
   color: black;
   font-size: xx-large;
  font-family: Arial;
+ text-decoration: underline overline;
 }
 
 
@@ -150,7 +158,3 @@ a.assignment_link
   background: none;
 }
 
-.reading
-{
-  text-decoration: underline overline;
-}
