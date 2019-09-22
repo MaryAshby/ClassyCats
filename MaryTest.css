@@ -117,7 +117,7 @@ h1
   border-radius: 4px;
  }
 
-body > div.day-box.PREP > div.reading-box > div > div
+.assignment-label
 {
   visibility: hidden;
 }
