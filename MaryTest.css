@@ -1,9 +1,5 @@
 body
 {
-background-image: url(https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cat%20in%20window.jpg);
- background-position: center;
- background-size: 100%;
- background-repeat: no-repeat;
 background-color: #ebfaf2;
  width: 800px;
 }
@@ -129,16 +125,13 @@ h1
   font-size: xx-large;
 }
 
-//classmates//
+
 table, th, tr
 { 
  font-family: Bookman;
  font-size: 18px;
  border: 2px solid black;
  text-align: center;
-}
- table
-{
   border-radius: 4px;
  width: 100%;
 }
