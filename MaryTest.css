@@ -43,8 +43,7 @@ a:visited
 
 .title
 {
-  background-image: url (https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/cats4.png);
-      background-repeat: no-repeat;
+  text-align: center;
  font-family: Bookman;
  font-size: 32px;
  padding: 14px 25px;
@@ -54,8 +53,8 @@ label
 {
 font-family: Arial;
 font-size: 18px;
+ padding: 12px 20px;
  boarder-radius: 4px;
-  box-sizing: border-box;
  background-color: #FEECB7;
 }
 
