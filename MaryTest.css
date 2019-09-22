@@ -149,3 +149,8 @@ a.assignment_link
   boarder: none;
   background: none;
 }
+
+.reading
+{
+  text-decoration: underline overline;
+}
