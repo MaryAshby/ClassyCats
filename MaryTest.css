@@ -95,7 +95,7 @@ h1
  font-style: bold;
 }
 
-.day-box PREP
+.day-box
 {
  background-color: #8bbabb;
  font-family: Arial;
@@ -157,4 +157,5 @@ h3
  font-family: Bookman;
  font-size: 36px;
 }
+ 
  
