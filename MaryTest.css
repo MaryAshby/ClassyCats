@@ -54,8 +54,9 @@ label
 {
 font-family: Arial;
 font-size: 18px;
- padding: 12px 20px;
- boarder-radius: 4px;
+ padding: 6px 20px;
+ border: 1px solid #FEECB7;
+ border-bottom-right-radius: 25px; 
  background-color: #FEECB7;
 }
 
