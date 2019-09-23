@@ -2,7 +2,6 @@
 /*overall site changes here */
 
 body
-
 {
 background-color: #ebfaf2;
  width: 800px;
@@ -14,7 +13,7 @@ background-color: #ebfaf2;
 body, h1, h2, h3, a{
   voice-family: male;
   richness: 80;
-  cue-before: url("beep.au")
+  cue-before: url("beep.au");
 }
 
 img.person_image
