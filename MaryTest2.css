@@ -16,7 +16,7 @@ img.person_image
 .header
 {
   background-image: url("background cat.png");
-  background-size: cover;
+  height: 110px;
    background-repeat: no-repeat;
 }
 .username 
@@ -117,7 +117,7 @@ h1
   border: 2px solid black;
   border-radius: 4px;
     background-image: url("cats4.png") 25px, 25px; 
-    background-position: right;
+    background-position: left;
   
  }
 
