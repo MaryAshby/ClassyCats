@@ -116,8 +116,8 @@ h1
   margin: 8px 0;
   border: 2px solid black;
   border-radius: 4px;
-    background-image: url("cats4.png") 50px, 50px; 
-    background-position: left;
+    background-image: url("cats4.png") 25px, 25px; 
+    background-position: right;
   
  }
 
