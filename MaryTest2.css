@@ -105,15 +105,15 @@ h1
  background-color: #8bbabb;
  font-family: Arial;
  font-size: 22px;
- text-align: center;
+ text-align: center; 
+  text-transform: capitalize;
  padding: 14px 20px;
   margin: 8px 0;
   border: 2px solid black;
   border-radius: 4px;
     background-image: url("catcat.png");
   background-repeat: no-repeat; 
-    background-position: left;
-  
+    background-position: left;  
  }
 
 
@@ -143,6 +143,11 @@ h3
  font-size: 36px;
 }
  
+.reading.assignment-label
+{
+  visibility: hidden;
+}
+  
 
                        /*Classmates */
 
