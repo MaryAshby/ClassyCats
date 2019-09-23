@@ -15,7 +15,7 @@ img.person_image
 
 .header
 {
-  background-image: url ("https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/The_expression_of_the_emotions_in_man_and_animals_(1872)_(14782774684).png");
+  background-image: url("https://raw.githubusercontent.com/MaryAshby/ClassyCats/master/The_expression_of_the_emotions_in_man_and_animals_(1872)_(14782774684).png");
   background-position: center;
    background-repeat: no-repeat;
 }
@@ -122,7 +122,7 @@ h1
 
 .grading-box
 {
-   boarder: none;
+   border: none;
   background: none;
 }
 
