@@ -13,12 +13,6 @@ img.person_image
  height: 110px;
 }
 
-.header
-{
-  background-image: url("background cat.png") 110px;
- 
-   background-repeat: no-repeat;
-}
 .username 
 {
 font-family: Bookman;
