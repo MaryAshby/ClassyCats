@@ -1,4 +1,5 @@
-              /*overall site changes here */
+/*cat images by Jo Teut and scared cat by Wood in Charles Darwin's book, "The Expression of the Emotions in Man and Animals"*/   
+/*overall site changes here */
 
 body
 {
@@ -12,6 +13,12 @@ img.person_image
  width: 80px;
  height: 110px;
 }
+
+.header
+{
+  background-image: url("scaredycat.png");
+  background-repeat: no-repeat;
+  background-position: right top;
 
 .username 
 {
