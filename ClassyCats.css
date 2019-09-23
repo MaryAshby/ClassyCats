@@ -1,1 +1,189 @@
+/*cat images by Jo Teut and scared cat by Wood in Charles Darwin's book, "The Expression of the Emotions in Man and Animals"*/   
+/*overall site changes here */
+
+body
+{
+background-color: #ebfaf2;
+ width: 800px;
+ background-image: url("curledupcat.png");
+ background-repeat: no-repeat;
+ background-position: right bottom;
+}
+
+img.person_image
+{
+ border-radius: 30px;
+ width: 80px;
+ height: 110px;
+}
+
+.header
+{
+  background-image: url("scaredycat.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.username 
+{
+font-family: Bookman;
+font-size: 32px;
+ display: inline-block;
+}
+ 
+a:link
+{
+ font-family: Arial;
+  font-size: 16px;
+  background-color:  #464159;
+ color: white;
+  text-transform: capitalize;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+ border-radius: 25px;
+}
+
+a:hover, a:active 
+{
+  background-color: #6c7b95;
+}
+
+a:visited 
+{
+  color: #d7f4e5;
+   display: inline-block;
+}
+
+.title
+{
+  text-align:left;
+    font-weight: bold; 
+ font-family: Bookman;
+ font-size: 32px;
+ padding:  14px 0px;
+ }
+
+label
+{
+font-family: Arial;
+font-size: 18px;
+ padding: 6px 20px;
+ border: 1px solid #FEECB7;
+ border-top-right-radius: 25px; 
+ background-color: #FEECB7;
+}
+
+input[type=text], input[type=file], select 
+{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #c7f0db;
+  border-radius: 4px;
+  box-sizing: border-box;
+ background-color: white;
+}
+
+input[type=submit] 
+{
+  width: 100%;
+  background-color: #FEECB7;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover 
+{
+  background-color: #4CAF50;
+}
+
+h1
+{
+ font-family: Bookman;
+ font-size: 36px;
+ font-style: bold;
+}
+
+                     /*home page */
+
+.day-box
+{
+ background-color: #8bbabb;
+ font-family: Arial;
+ font-size: 22px;
+ text-align: center; 
+  text-transform: capitalize;
+ padding: 14px 20px;
+  margin: 8px 0;
+  border: 2px solid black;
+  border-radius: 4px;
+    background-image: url("catcat.png");
+  background-repeat: no-repeat; 
+    background-position: left;  
+ }
+
+
+.reading-day
+{
+ border: none;
+ background: none;
+}
+ 
+.day
+{
+  color: black;
+  font-size: xx-large;
+ font-family: Arial;
+ text-decoration: underline overline;
+}
+
+.grade
+{
+ font-family: Arial;
+ font-size: 36px;
+}
+
+h3
+{
+ font-family: Bookman;
+ font-size: 36px;
+}
+ 
+.assignment-label
+{
+ color: #8bbabb;
+}
+
+.assignmentWidget
+{
+  color: white;
+}
+  
+
+                       /*Classmates */
+
+table, th, tr
+{ 
+ font-family: Bookman;
+ font-size: 24px;
+ border: 2px solid black;
+ border: collapse;
+ table-layout: fixed;
+ text-align: center;
+  text-transform: capitalize;
+  border-radius: 4px;
+ width: 100%;
+}
+
+ tr:nth-child(even)
+{
+ background-color: white;
+}
+
+
 
