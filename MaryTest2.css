@@ -3,6 +3,11 @@
 
 body
 {
+  voice-family: male;
+  richness: 80;
+  cue-before: url("beep.au")
+}
+{
 background-color: #ebfaf2;
  width: 800px;
  background-image: url("curledupcat.png");
