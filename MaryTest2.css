@@ -116,8 +116,9 @@ h1
   margin: 8px 0;
   border: 2px solid black;
   border-radius: 4px;
-    background-image: url("cats4.png"); 
+    background-image: url("cats4.png") 50px, 50px; 
     background-position: left;
+  
  }
 
 .grading-box
@@ -131,7 +132,7 @@ h1
   visibility: hidden;
 }
 
-reading.day
+.reading-day
 {
  border: none;
  background: none;
