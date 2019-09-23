@@ -143,9 +143,9 @@ h3
  font-size: 36px;
 }
  
-div:nth-child(8).reading-box.nth-child(1)
+.assignment-label
 {
-  visibility: hidden;
+ color: #ebfaf2;
 }
   
 
