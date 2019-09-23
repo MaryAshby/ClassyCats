@@ -15,8 +15,8 @@ img.person_image
 
 .header
 {
-  background-image: url("background cat.png");
-  height: 110px;
+  background-image: url("background cat.png") 110px;
+ 
    background-repeat: no-repeat;
 }
 .username 
