@@ -110,7 +110,8 @@ h1
   margin: 8px 0;
   border: 2px solid black;
   border-radius: 4px;
-    background-image: url("catcat.png"); 
+    background-image: url("catcat.png");
+  background-repeat: no-repeat; 
     background-position: left;
   
  }
