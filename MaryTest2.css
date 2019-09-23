@@ -10,12 +10,6 @@ background-color: #ebfaf2;
  background-position: right bottom;
 }
 
-body, h1, h2, h3, a{
-  voice-family: male;
-  richness: 80;
-  cue-before: url("beep.au");
-}
-
 img.person_image
 {
  border-radius: 30px;
