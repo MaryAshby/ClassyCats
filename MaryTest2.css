@@ -47,10 +47,10 @@ a:visited
 .title
 {
   text-align:left;
-    font-style: bold; 
+    font-weight: bold; 
  font-family: Bookman;
  font-size: 32px;
- padding: 14px 25px;
+ padding:  0px 25px;
  }
 
 label
