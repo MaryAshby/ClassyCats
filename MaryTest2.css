@@ -2,17 +2,19 @@
 /*overall site changes here */
 
 body
-{
-  voice-family: male;
-  richness: 80;
-  cue-before: url("beep.au")
-}
+
 {
 background-color: #ebfaf2;
  width: 800px;
  background-image: url("curledupcat.png");
  background-repeat: no-repeat;
  background-position: right bottom;
+}
+
+body, h1, h2, h3, a{
+  voice-family: male;
+  richness: 80;
+  cue-before: url("beep.au")
 }
 
 img.person_image
