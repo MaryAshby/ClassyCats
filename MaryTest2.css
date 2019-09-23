@@ -19,7 +19,6 @@ img.person_image
   background-image: url("scaredycat.png");
   background-repeat: no-repeat;
   background-position: right top;
- height: 200px;
 }
 
 .username 
