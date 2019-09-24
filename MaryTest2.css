@@ -191,4 +191,13 @@ table, th, tr
  background-color: white;
 }
 
+/*Iframe changes*/
+
+iframe
+{
+ float: left;
+ width: 400px;
+ height: 600px;
+}
+
 
