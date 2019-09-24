@@ -208,17 +208,17 @@ iframe
  float: right;
  width: 600px;
  height: 600px;
- bottom: 400px;
+ top: 500px;
 }
 
 /*seating*/
-svg #desks
+ #desks
 {
 fill: #8bbabb;
 radius: 4px;
 }
 
-svg .rect
+.rect
 {
  height: 525px;
  fill: #8bbabb
