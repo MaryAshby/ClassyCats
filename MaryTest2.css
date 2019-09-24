@@ -55,7 +55,7 @@ a:visited
    display: inline-block;
 }
 
-.title, .assignment_title, .rubric_score, .rubric_comments, .assignment_prompt
+.title, .assignment_title, .rubric_score, .rubric_comments, 
 {
   text-align:left;
     font-weight: bold; 
@@ -63,6 +63,12 @@ a:visited
  font-size: 32px;
  padding:  14px 0px;
  }
+
+.assignment_prompt, p
+{
+ font-family: Arial;
+ font-size: 18px;
+}
 
 label
 {
