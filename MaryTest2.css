@@ -4,7 +4,7 @@
 body
 {
 background-color: #ebfaf2;
- width: 1200px;
+ width: 1000px;
  background-image: url("curledupcat.png");
  background-repeat: no-repeat;
  background-position: right bottom;
@@ -64,6 +64,13 @@ a:visited
  padding:  14px 0px;
  }
 
+.assignment_title, .assignment-title, .rubric_score, .rubric_comments, author_comments
+{
+  text-align:left; 
+ font-family: Bookman;
+ font-size: 32px;
+ padding:  14px 0px;
+ }
 .assignment_prompt, p, ul, .view_text
 {
  font-family: Arial;
@@ -209,9 +216,16 @@ iframe
  height: 600px;
 }
 
-/*seating8/
+/*seating*/
 #desks
 {
 background-color: #8bbabb;
 radius: 4px;
 }
+
+#special2
+{
+ height: 525px;
+ background-color: #464159;
+}
+
