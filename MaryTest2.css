@@ -221,13 +221,13 @@ iframe
 /*seating*/
 #desks
 {
-background-color: #8bbabb;
+fill: #8bbabb;
 radius: 4px;
 }
 
-#special2
+.rect
 {
  height: 525px;
- background-color: #464159;
 }
+
 
