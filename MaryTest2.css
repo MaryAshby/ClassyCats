@@ -205,10 +205,8 @@ table, th, tr
 
 iframe
 {
- float: right;
- width: 600px;
+ width: 100%;
  height: 400px;
- top: 500px;
 }
 
 /*seating*/
