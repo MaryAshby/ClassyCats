@@ -64,10 +64,15 @@ a:visited
  padding:  14px 0px;
  }
 
-.assignment_prompt, p
+.assignment_prompt, p, ul, .view_text
 {
  font-family: Arial;
  font-size: 18px;
+}
+
+table
+{
+ width: 800px;
 }
 
 label
@@ -196,7 +201,7 @@ table, th, tr
 iframe
 {
  float: left;
- width: 400px;
+ width: 600px;
  height: 600px;
 }
 
