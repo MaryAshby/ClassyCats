@@ -174,8 +174,11 @@ h3
 {
   color: white;
 }
-  
-
+ 
+.assignment-title
+{
+font-size: 14px;
+}
                        /*Classmates */
 
 table, th, tr
