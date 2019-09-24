@@ -219,13 +219,13 @@ iframe
 }
 
 /*seating*/
-#desks
+svg#desks
 {
 fill: #8bbabb;
 radius: 4px;
 }
 
-.rect
+svg.rect
 {
  height: 525px;
 }
