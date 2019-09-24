@@ -5,9 +5,9 @@ body
 {
 background-color: #ebfaf2;
  width: 1000px;
- background-image: url("curledupcat.png");
- background-repeat: no-repeat;
- background-position: right bottom;
+ background-image: url("curledupcat.png"), url("paws.png");
+ background-repeat: no-repeat, no-repeat;
+ background-position: right bottom, right center;
 }
 
 img.person_image
