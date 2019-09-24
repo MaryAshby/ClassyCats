@@ -184,11 +184,12 @@ h3
   color: white;
 }
  
-.assignment-title
+.header {
+ .assignment-title
 {
 font-size: 18px;
  font-style: none;
-}
+ }}
                        /*Classmates */
 
 table, th, tr
@@ -213,7 +214,7 @@ table, th, tr
 
 iframe
 {
- float: left;
+ float: right;
  width: 600px;
  height: 600px;
 }
