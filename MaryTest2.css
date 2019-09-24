@@ -64,14 +64,6 @@ a:visited
  padding:  14px 0px;
  }
 
-.assignment_title, .assignment-title, .rubric_score, .rubric_comments, author_comments
-{
-  text-align:left; 
- font-family: Bookman;
- font-size: 32px;
- padding:  14px 0px;
- }
-
 .assignment_prompt, p, ul, .view_text
 {
  font-family: Arial;
@@ -184,12 +176,11 @@ h3
   color: white;
 }
  
-.header {
  .assignment-title
 {
 font-size: 18px;
  font-style: none;
- }}
+ }
                        /*Classmates */
 
 table, th, tr
@@ -217,18 +208,20 @@ iframe
  float: right;
  width: 600px;
  height: 600px;
+ bottom: 400px;
 }
 
 /*seating*/
-svg#desks
+svg #desks
 {
 fill: #8bbabb;
 radius: 4px;
 }
 
-svg.rect
+svg .rect
 {
  height: 525px;
+ fill: #8bbabb
 }
 
 
