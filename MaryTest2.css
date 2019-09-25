@@ -210,17 +210,5 @@ iframe
  box-shadow: 10px 10px 5px #464159;
 }
 
-/*seating*/
- #desks
-{
-fill: #8bbabb;
-radius: 4px;
-}
-
-.rect
-{
- height: 525px;
- fill: #8bbabb;
-}
 
 
